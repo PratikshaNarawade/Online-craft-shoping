@@ -1,0 +1,3201 @@
+{
+  "settings": {
+    "storeName": "Pratiksha's Craft",
+    "tagline": "Because handmade is lasting.",
+    "email": "hello@pratikshascraft.in",
+    "phone": "+91 98765 43210",
+    "whatsapp": "919876543210",
+    "instagram": "https://instagram.com/pratikshascraft",
+    "address": "India",
+    "hours": "Monday - Saturday: 10:00 AM - 7:00 PM\nSunday: Closed",
+    "shippingFee": 79,
+    "freeShippingAbove": 999,
+    "adminEmail": "admin@pratikshascraft.in",
+    "passwordHash": "6ff70a05a2421341afbbe3e618328c22df5506f6310037e002118ac2c6e55ad0"
+  },
+  "content": {
+    "announcement": {
+      "enabled": true,
+      "text": "Handmade pipe-cleaner blooms that last.",
+      "link": "/shop"
+    },
+    "announcements": [
+      "Handmade pipe-cleaner art that lasts",
+      "Partial COD is now available",
+      "Free shipping on prepaid orders above ₹999",
+      "Shubh Labh, Haar, Diyas, and everlasting bouquets"
+    ],
+    "heroTitle": "Handmade crafts, made to last",
+    "heroImage": "/craft/bouquet-sunflower.png",
+    "featuredProductId": "p-bouquet-01",
+    "story": {
+      "eyebrow": "Our story",
+      "title": "Welcome to Pratiksha's Craft",
+      "body": "Pratiksha's Craft is a studio of chenille stem crafts — the authentic name for pipe-cleaner art. Every bouquet, flower pot, hair clip, Shubh Labh hanging, and festive piece is twisted by hand from fuzzy chenille stems. Soft, sculptural, and made to last for years without water.",
+      "image": "/craft/wall-decor-01.jpg"
+    },
+    "why": [
+      {
+        "title": "Handcrafted",
+        "body": "Every bloom is twisted by hand from chenille stems — no machines, no shortcuts."
+      },
+      {
+        "title": "Everlasting",
+        "body": "These flowers never need water. They stay as they were gifted, for years."
+      },
+      {
+        "title": "Pipe-cleaner art",
+        "body": "The authentic craft name for pipe cleaners: soft, sculptural yarn wrapped on wire, colourfast and lasting."
+      },
+      {
+        "title": "Personal note",
+        "body": "Add a handwritten message at checkout. We tuck it into every parcel."
+      }
+    ],
+    "reels": [
+      {
+        "id": "r1",
+        "image": "/craft/hero-bouquet.png",
+        "caption": "Bouquet",
+        "url": "https://instagram.com/pratikshascraft"
+      },
+      {
+        "id": "r2",
+        "image": "/craft/hair-clip-01.jpg",
+        "caption": "Hair accessories",
+        "url": "https://instagram.com/pratikshascraft"
+      },
+      {
+        "id": "r3",
+        "image": "/craft/flower-pot-01.jpg",
+        "caption": "Flower pots",
+        "url": "https://instagram.com/pratikshascraft"
+      },
+      {
+        "id": "r4",
+        "image": "/craft/shubh-labh-01.jpg",
+        "caption": "Shubh Labh",
+        "url": "https://instagram.com/pratikshascraft"
+      },
+      {
+        "id": "r5",
+        "image": "/craft/wall-decor-01.jpg",
+        "caption": "Wall decor",
+        "url": "https://instagram.com/pratikshascraft"
+      },
+      {
+        "id": "r6",
+        "image": "/craft/diya-01.jpg",
+        "caption": "Diyas",
+        "url": "https://instagram.com/pratikshascraft"
+      }
+    ]
+  },
+  "collections": [
+    {
+      "id": "c-bouquet",
+      "name": "Bouquets",
+      "slug": "chenille-stem-bouquets",
+      "description": "Everlasting chenille-stem bouquets — the authentic craft name for pipe-cleaner blooms. Handmade to gift or keep.",
+      "image": "/craft/forever-flowers.png",
+      "featured": true
+    },
+    {
+      "id": "c-hair-clip",
+      "name": "Hair Accessories",
+      "slug": "chenille-stem-hair-accessories",
+      "description": "Handmade chenille-stem hair clips, bands, and matching sets — fuzzy, light, and made to last.",
+      "image": "/craft/hair-clip-01.jpg",
+      "featured": true
+    },
+    {
+      "id": "c-pot",
+      "name": "Flower Pots",
+      "slug": "chenille-stem-flower-pots",
+      "description": "Miniature potted chenille-stem blooms for desks and windowsills — no watering, just colour.",
+      "image": "/craft/flower-pot-01.jpg",
+      "featured": true
+    },
+    {
+      "id": "c-curtain",
+      "name": "Curtain Tie-Backs",
+      "slug": "curtain-tie-backs",
+      "description": "Floral chenille-stem curtain holdbacks for windows and festive rooms.",
+      "image": "/craft/curtain-01.jpg",
+      "featured": true
+    },
+    {
+      "id": "c-diya",
+      "name": "Diyas",
+      "slug": "chenille-stem-diyas",
+      "description": "Festive chenille-stem diyas — everlasting glow for pooja and Diwali décor.",
+      "image": "/craft/diya-01.jpg",
+      "featured": false
+    },
+    {
+      "id": "c-lotus",
+      "name": "Lotus Blooms",
+      "slug": "lotus-blooms",
+      "description": "Hand-twisted lotus blooms from chenille stems (pipe cleaners).",
+      "image": "/craft/lotus-01.jpg",
+      "featured": false
+    },
+    {
+      "id": "c-asan",
+      "name": "Ganpati Asan",
+      "slug": "ganpati-asan",
+      "description": "Handmade chenille-stem asan for Ganpati — festive, auspicious seating décor.",
+      "image": "/craft/ganpati-asan-01.jpg",
+      "featured": true
+    },
+    {
+      "id": "c-haar",
+      "name": "Ganpati Haar",
+      "slug": "haar-garlands",
+      "description": "Handmade Ganpati haar, festive diyas, and pooja décor — everlasting chenille-stem crafts for the season.",
+      "image": "/craft/haar-01.jpg",
+      "featured": true
+    },
+    {
+      "id": "c-keychain",
+      "name": "Keychains",
+      "slug": "chenille-stem-keychains",
+      "description": "Tiny chenille-stem charms on keyrings — handmade keepsakes.",
+      "image": "/craft/keychain-01.jpg",
+      "featured": true
+    },
+    {
+      "id": "c-purse",
+      "name": "Mini Purse",
+      "slug": "mini-purse",
+      "description": "A handmade chenille-stem mini purse — sculptural and giftable.",
+      "image": "/craft/purse-01.jpg",
+      "featured": false
+    },
+    {
+      "id": "c-shubh",
+      "name": "Shubh Labh",
+      "slug": "shubh-labh",
+      "description": "Traditional Shubh Labh hangings twisted from chenille stems with pearl accents.",
+      "image": "/craft/shubh-labh-01.jpg",
+      "featured": true
+    },
+    {
+      "id": "c-wall",
+      "name": "Home Decor",
+      "slug": "wall-decor",
+      "description": "Handmade pipe-cleaner wall hangings, curtain tie-backs, wreaths, mirrors, and festive home décor.",
+      "image": "/craft/wall-decor-01.jpg",
+      "featured": true
+    },
+    {
+      "id": "c-mirror",
+      "name": "Floral Mirrors",
+      "slug": "floral-mirrors",
+      "description": "Mirrors framed with handmade chenille-stem flowers — room décor that lasts.",
+      "image": "/craft/floral-mirror-01.jpg",
+      "featured": true
+    }
+  ],
+  "products": [
+    {
+      "id": "p-bouquet-01",
+      "name": "Sunflower bouquet",
+      "slug": "Sunflower bouquet",
+      "description": "Everlasting chenille-stem bouquets — the authentic craft name for pipe-cleaner blooms. Handmade to gift or keep.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 999,
+      "compareAt": 0,
+      "images": [
+        "/craft/hero-bouquet.png"
+      ],
+      "collectionIds": [
+        "c-bouquet"
+      ],
+      "stock": 9,
+      "featured": true,
+      "bestseller": true,
+      "createdAt": "2026-07-01T10:00:00.000Z"
+    },
+    {
+      "id": "p-bouquet-02",
+      "name": "pink white  lili flower bouquet",
+      "slug": "bouquet-02",
+      "description": "Everlasting chenille-stem bouquets — the authentic craft name for pipe-cleaner blooms. Handmade to gift or keep.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 560,
+      "compareAt": 560,
+      "images": [
+        "/craft/bouquet-pink.png"
+      ],
+      "collectionIds": [
+        "c-bouquet"
+      ],
+      "stock": 4,
+      "featured": true,
+      "bestseller": false,
+      "createdAt": "2026-07-02T10:00:00.000Z"
+    },
+    {
+      "id": "p-bouquet-03",
+      "name": "Sunflower Rose Bouquet",
+      "slug": "bouquet-03",
+      "description": "Everlasting chenille-stem bouquets — the authentic craft name for pipe-cleaner blooms. Handmade to gift or keep.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 910,
+      "compareAt": 1010,
+      "images": [
+        "/craft/forever-flowers.png"
+      ],
+      "collectionIds": [
+        "c-bouquet"
+      ],
+      "stock": 4,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-03T10:00:00.000Z"
+    },
+    {
+      "id": "p-bouquet-04",
+      "name": "White Pink Rose Bouquet",
+      "slug": "bouquet-04",
+      "description": "Everlasting chenille-stem bouquets — the authentic craft name for pipe-cleaner blooms. Handmade to gift or keep.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 1260,
+      "compareAt": 0,
+      "images": [
+        "/craft/jumbo-bouquet.png"
+      ],
+      "collectionIds": [
+        "c-bouquet"
+      ],
+      "stock": 9,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-04T10:00:00.000Z"
+    },
+    {
+      "id": "p-bouquet-09",
+      "name": "Sunflower Bouquet ",
+      "slug": "bouquet-09",
+      "description": "Everlasting chenille-stem bouquets — the authentic craft name for pipe-cleaner blooms. Handmade to gift or keep.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 599,
+      "compareAt": 0,
+      "images": [
+        "/craft/bouquet-09.jpg"
+      ],
+      "collectionIds": [
+        "c-bouquet"
+      ],
+      "stock": 18,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-09T10:00:00.000Z"
+    },
+    {
+      "id": "p-bouquet-10",
+      "name": "Mini Sunflower Bouquet",
+      "slug": "bouquet-10",
+      "description": "Everlasting chenille-stem bouquets — the authentic craft name for pipe-cleaner blooms. Handmade to gift or keep.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 499,
+      "compareAt": 0,
+      "images": [
+        "/craft/bouquet-10.jpg"
+      ],
+      "collectionIds": [
+        "c-bouquet"
+      ],
+      "stock": 4,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-10T10:00:00.000Z"
+    },
+    {
+      "id": "p-bouquet-11",
+      "name": "White Daisies Bouquet",
+      "slug": "bouquet-11",
+      "description": "Everlasting chenille-stem bouquets — the authentic craft name for pipe-cleaner blooms. Handmade to gift or keep.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 499,
+      "compareAt": 0,
+      "images": [
+        "/craft/bouquet-11.jpg"
+      ],
+      "collectionIds": [
+        "c-bouquet"
+      ],
+      "stock": 7,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-11T10:00:00.000Z"
+    },
+    {
+      "id": "p-bouquet-12",
+      "name": "pink lilies Bouquet ",
+      "slug": "bouquet-12",
+      "description": "Everlasting chenille-stem bouquets — the authentic craft name for pipe-cleaner blooms. Handmade to gift or keep.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 499,
+      "compareAt": 0,
+      "images": [
+        "/craft/bouquet-12.jpg"
+      ],
+      "collectionIds": [
+        "c-bouquet"
+      ],
+      "stock": 10,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-12T10:00:00.000Z"
+    },
+    {
+      "id": "p-bouquet-13",
+      "name": "Lilies pink Bouquet",
+      "slug": "bouquet-13",
+      "description": "Everlasting chenille-stem bouquets — the authentic craft name for pipe-cleaner blooms. Handmade to gift or keep.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 499,
+      "compareAt": 0,
+      "images": [
+        "/craft/bouquet-13.jpg"
+      ],
+      "collectionIds": [
+        "c-bouquet"
+      ],
+      "stock": 13,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-13T10:00:00.000Z"
+    },
+    {
+      "id": "p-bouquet-14",
+      "name": "Tulips light purple Bouquet",
+      "slug": "bouquet-14",
+      "description": "Everlasting chenille-stem bouquets — the authentic craft name for pipe-cleaner blooms. Handmade to gift or keep.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 499,
+      "compareAt": 0,
+      "images": [
+        "/craft/bouquet-14.jpg"
+      ],
+      "collectionIds": [
+        "c-bouquet"
+      ],
+      "stock": 16,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-14T10:00:00.000Z"
+    },
+    {
+      "id": "p-bouquet-15",
+      "name": "Lilies  dark pink bouquet",
+      "slug": "bouquet-15",
+      "description": "Everlasting chenille-stem bouquets — the authentic craft name for pipe-cleaner blooms. Handmade to gift or keep.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 499,
+      "compareAt": 1720,
+      "images": [
+        "/craft/bouquet-15.jpg"
+      ],
+      "collectionIds": [
+        "c-bouquet"
+      ],
+      "stock": 19,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-15T10:00:00.000Z"
+    },
+    {
+      "id": "p-bouquet-16",
+      "name": "Pink Roses Bouquet ",
+      "slug": "bouquet-16",
+      "description": "Everlasting chenille-stem bouquets — the authentic craft name for pipe-cleaner blooms. Handmade to gift or keep.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 499,
+      "compareAt": 1760,
+      "images": [
+        "/craft/bouquet-16.jpg"
+      ],
+      "collectionIds": [
+        "c-bouquet"
+      ],
+      "stock": 6,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-16T10:00:00.000Z"
+    },
+    {
+      "id": "p-bouquet-17",
+      "name": "yellow sunflower Bouquet ",
+      "slug": "bouquet-17",
+      "description": "Everlasting chenille-stem bouquets — the authentic craft name for pipe-cleaner blooms. Handmade to gift or keep.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 499,
+      "compareAt": 1800,
+      "images": [
+        "/craft/bouquet-17.jpg"
+      ],
+      "collectionIds": [
+        "c-bouquet"
+      ],
+      "stock": 9,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-17T10:00:00.000Z"
+    },
+    {
+      "id": "p-bouquet-18",
+      "name": "bright yellow sunflower Bouquet",
+      "slug": "bouquet-18",
+      "description": "Everlasting chenille-stem bouquets — the authentic craft name for pipe-cleaner blooms. Handmade to gift or keep.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 499,
+      "compareAt": 1840,
+      "images": [
+        "/craft/bouquet-18.jpg"
+      ],
+      "collectionIds": [
+        "c-bouquet"
+      ],
+      "stock": 12,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-18T10:00:00.000Z"
+    },
+    {
+      "id": "p-bouquet-19",
+      "name": "white and pink lilies Bouquet ",
+      "slug": "bouquet-19",
+      "description": "Everlasting chenille-stem bouquets — the authentic craft name for pipe-cleaner blooms. Handmade to gift or keep.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 499,
+      "compareAt": 1980,
+      "images": [
+        "/craft/bouquet-19.jpg"
+      ],
+      "collectionIds": [
+        "c-bouquet"
+      ],
+      "stock": 15,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-19T10:00:00.000Z"
+    },
+    {
+      "id": "p-bouquet-20",
+      "name": "pink and light purple lily Bouquet ",
+      "slug": "bouquet-20",
+      "description": "Everlasting chenille-stem bouquets — the authentic craft name for pipe-cleaner blooms. Handmade to gift or keep.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 499,
+      "compareAt": 0,
+      "images": [
+        "/craft/bouquet-20.jpg"
+      ],
+      "collectionIds": [
+        "c-bouquet"
+      ],
+      "stock": 15,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-20T10:00:00.000Z"
+    },
+    {
+      "id": "p-hair-clip-01",
+      "name": "Blue Daisy Beaded Hair Clip",
+      "slug": "hair-clip-01",
+      "description": "A light blue daisy clip with a yellow centre and hanging beaded strings — handmade in chenille stem with pearl-tipped tassels.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 499,
+      "compareAt": 0,
+      "images": [
+        "/craft/hair-clip-01.jpg"
+      ],
+      "collectionIds": [
+        "c-hair-clip"
+      ],
+      "stock": 6,
+      "featured": true,
+      "bestseller": true,
+      "createdAt": "2026-07-21T10:00:00.000Z"
+    },
+    {
+      "id": "p-hair-clip-02",
+      "name": "Pink Flower Wreath Bun Pin",
+      "slug": "hair-clip-02",
+      "description": "A circular pink flower wreath bun pin with pearl centres, plus a smaller matching clip — handmade from chenille stem.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 509,
+      "compareAt": 679,
+      "images": [
+        "/craft/hair-clip-02.jpg"
+      ],
+      "collectionIds": [
+        "c-hair-clip"
+      ],
+      "stock": 19,
+      "featured": true,
+      "bestseller": false,
+      "createdAt": "2026-07-22T10:00:00.000Z"
+    },
+    {
+      "id": "p-hair-clip-03",
+      "name": "Floral & Cherry Hair Clips",
+      "slug": "hair-clip-03",
+      "description": "A mix of floral and fruit-themed clips — a light purple daisy, red cherry stems, and small red and pink flower clips for the hair.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 519,
+      "compareAt": 699,
+      "images": [
+        "/craft/hair-clip-03.jpg"
+      ],
+      "collectionIds": [
+        "c-hair-clip"
+      ],
+      "stock": 16,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-23T10:00:00.000Z"
+    },
+    {
+      "id": "p-hair-clip-04",
+      "name": "White Pink & Black Lily Clips",
+      "slug": "hair-clip-04",
+      "description": "Handmade lily-style clips in white, light pink, and black — five-petaled chenille flowers with beaded centres.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 529,
+      "compareAt": 719,
+      "images": [
+        "/craft/hair-clip-04.jpg"
+      ],
+      "collectionIds": [
+        "c-hair-clip"
+      ],
+      "stock": 13,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-24T10:00:00.000Z"
+    },
+    {
+      "id": "p-hair-clip-05",
+      "name": "Rainbow Daisy Hair Clips",
+      "slug": "hair-clip-05",
+      "description": "A mix of small colourful daisy-style clips arranged as a set — patterned petals in many shades, handmade for everyday wear.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 539,
+      "compareAt": 0,
+      "images": [
+        "/craft/hair-clip-05.jpg"
+      ],
+      "collectionIds": [
+        "c-hair-clip"
+      ],
+      "stock": 10,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-25T10:00:00.000Z"
+    },
+    {
+      "id": "p-hair-clip-06",
+      "name": "Mini Floral Hair Clips",
+      "slug": "hair-clip-06",
+      "description": "Small handmade floral clips on card packaging — yellow sunflower-style blooms plus pink and purple flowers with green stems.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 549,
+      "compareAt": 659,
+      "images": [
+        "/craft/hair-clip-06.jpg"
+      ],
+      "collectionIds": [
+        "c-hair-clip"
+      ],
+      "stock": 7,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-26T10:00:00.000Z"
+    },
+    {
+      "id": "p-hair-clip-07",
+      "name": "Cherry Blossom Hair Clip",
+      "slug": "hair-clip-07",
+      "description": "A pink five-petaled cherry blossom clip with a pearl centre and tiny green leaves — handmade in chenille stem.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 199,
+      "compareAt": 319,
+      "images": [
+        "/craft/hair-clip-07.jpg"
+      ],
+      "collectionIds": [
+        "c-hair-clip"
+      ],
+      "stock": 4,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-27T10:00:00.000Z"
+    },
+    {
+      "id": "p-hair-clip-08",
+      "name": "White Plumeria Hair Clip",
+      "slug": "hair-clip-08",
+      "description": "A white plumeria (frangipani) clip with a yellow centre and green leaves — soft, sculptural, and handmade.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 369,
+      "compareAt": 479,
+      "images": [
+        "/craft/hair-clip-08.jpg"
+      ],
+      "collectionIds": [
+        "c-hair-clip"
+      ],
+      "stock": 17,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-28T10:00:00.000Z"
+    },
+    {
+      "id": "p-hair-clip-09",
+      "name": "Pink Peach Butterfly Hair Clips",
+      "slug": "hair-clip-09",
+      "description": "Pastel pink and peach butterfly clips with beaded bodies — handmade chenille as a matching pair.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 379,
+      "compareAt": 0,
+      "images": [
+        "/craft/hair-clip-09.jpg"
+      ],
+      "collectionIds": [
+        "c-hair-clip"
+      ],
+      "stock": 14,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-01T10:00:00.000Z"
+    },
+    {
+      "id": "p-hair-clip-10",
+      "name": "Mini Pink Flower Hair Clips",
+      "slug": "hair-clip-10",
+      "description": "Two small bright-pink fuzzy flower clips with pearl centres — handmade chenille for everyday wear.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 199,
+      "compareAt": 0,
+      "images": [
+        "/craft/hair-clip-10.jpg"
+      ],
+      "collectionIds": [
+        "c-hair-clip"
+      ],
+      "stock": 16,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-02T10:00:00.000Z"
+    },
+    {
+      "id": "p-hair-clip-11",
+      "name": "Pink Butterfly Tassel Hair Clip",
+      "slug": "hair-clip-11",
+      "description": "A pink butterfly clip with hanging beaded strings ending in pink flower accents — handmade chenille with pearl centres.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 549,
+      "compareAt": 699,
+      "images": [
+        "/craft/hair-clip-11.jpg"
+      ],
+      "collectionIds": [
+        "c-hair-clip"
+      ],
+      "stock": 19,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-03T10:00:00.000Z"
+    },
+    {
+      "id": "p-hair-clip-12",
+      "name": "Bunny Ear Character Headbands",
+      "slug": "hair-clip-12",
+      "description": "A collection of handmade character and bunny-ear hair bands — chenille ears, bows, and floral accents in many colours.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 539,
+      "compareAt": 679,
+      "images": [
+        "/craft/hair-clip-12.jpg"
+      ],
+      "collectionIds": [
+        "c-hair-clip"
+      ],
+      "stock": 6,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-04T10:00:00.000Z"
+    },
+    {
+      "id": "p-hair-clip-13",
+      "name": "Stacked Heart Hair Clip",
+      "slug": "hair-clip-13",
+      "description": "A stacked chenille heart clip in light purple, dark purple, and white — handmade and fuzzy.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 529,
+      "compareAt": 659,
+      "images": [
+        "/craft/hair-clip-13.jpg"
+      ],
+      "collectionIds": [
+        "c-hair-clip"
+      ],
+      "stock": 9,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-05T10:00:00.000Z"
+    },
+    {
+      "id": "p-hair-clip-14",
+      "name": "Maroon Floral Bun Pin",
+      "slug": "hair-clip-14",
+      "description": "A dark red and green circular floral bun pin with hanging beads — handmade chenille for a bun or braid.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 239,
+      "compareAt": 0,
+      "images": [
+        "/craft/hair-clip-14.jpg"
+      ],
+      "collectionIds": [
+        "c-hair-clip"
+      ],
+      "stock": 4,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-06T10:00:00.000Z"
+    },
+    {
+      "id": "p-hair-clip-15",
+      "name": "Pink & Magenta Pearl Flower Clips",
+      "slug": "hair-clip-15",
+      "description": "A cluster of light pink and dark magenta fuzzy flowers with pearl centres — handmade chenille blooms.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 229,
+      "compareAt": 0,
+      "images": [
+        "/craft/hair-clip-15.jpg"
+      ],
+      "collectionIds": [
+        "c-hair-clip"
+      ],
+      "stock": 7,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-07T10:00:00.000Z"
+    },
+    {
+      "id": "p-hair-clip-16",
+      "name": "Pink Chrysanthemum Hair Clip",
+      "slug": "hair-clip-16",
+      "description": "A fluffy multi-layered pink daisy or chrysanthemum-style clip — handmade chenille petals around a pale centre.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 219,
+      "compareAt": 0,
+      "images": [
+        "/craft/hair-clip-16.jpg"
+      ],
+      "collectionIds": [
+        "c-hair-clip"
+      ],
+      "stock": 10,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-08T10:00:00.000Z"
+    },
+    {
+      "id": "p-hair-clip-17",
+      "name": "Pink Butterfly Beaded Hair Clip",
+      "slug": "hair-clip-17",
+      "description": "A pink fuzzy butterfly clip with hanging beaded strings ending in pink flower accents — handmade chenille with pearl centres.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 209,
+      "compareAt": 0,
+      "images": [
+        "/craft/hair-clip-17.jpg"
+      ],
+      "collectionIds": [
+        "c-hair-clip"
+      ],
+      "stock": 13,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-09T10:00:00.000Z"
+    },
+    {
+      "id": "p-hair-clip-18",
+      "name": "Purple & Yellow Floral Headband",
+      "slug": "hair-clip-18",
+      "description": "A yellow floral headband with purple blooms, plus matching purple flower clips — handmade chenille with pearl centres.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 439,
+      "compareAt": 0,
+      "images": [
+        "/craft/hair-clip-18.jpg"
+      ],
+      "collectionIds": [
+        "c-hair-clip"
+      ],
+      "stock": 8,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-10T10:00:00.000Z"
+    },
+    {
+      "id": "p-hair-clip-19",
+      "name": "Orange Centre Daisy Hair Clips",
+      "slug": "hair-clip-19",
+      "description": "White daisy-style clips with bright orange centres — handmade chenille petals on a snap clip.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 429,
+      "compareAt": 0,
+      "images": [
+        "/craft/hair-clip-19.jpg"
+      ],
+      "collectionIds": [
+        "c-hair-clip"
+      ],
+      "stock": 11,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-11T10:00:00.000Z"
+    },
+    {
+      "id": "p-hair-clip-20",
+      "name": "Red Tulip Hair Clip",
+      "slug": "hair-clip-20",
+      "description": "Dark red tulip clips with green stems and leaves — a sculptural chenille claw clip for a bun.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 469,
+      "compareAt": 0,
+      "images": [
+        "/craft/hair-clip-20.jpg"
+      ],
+      "collectionIds": [
+        "c-hair-clip"
+      ],
+      "stock": 11,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-12T10:00:00.000Z"
+    },
+    {
+      "id": "p-hair-clip-21",
+      "name": "Yellow Floral Headband",
+      "slug": "hair-clip-21",
+      "description": "A yellow floral headband of tiny chenille blooms with pearl centres — handmade and light for everyday wear.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 479,
+      "compareAt": 0,
+      "images": [
+        "/craft/hair-clip-21.jpg"
+      ],
+      "collectionIds": [
+        "c-hair-clip"
+      ],
+      "stock": 8,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-13T10:00:00.000Z"
+    },
+    {
+      "id": "p-hair-clip-22",
+      "name": "Pink & Purple Rose Hair Clips",
+      "slug": "hair-clip-22",
+      "description": "Paired rose-style clips in pink and purple with green stems and pearl centres — handmade chenille blooms on card.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 449,
+      "compareAt": 0,
+      "images": [
+        "/craft/hair-clip-22.jpg"
+      ],
+      "collectionIds": [
+        "c-hair-clip"
+      ],
+      "stock": 17,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-14T10:00:00.000Z"
+    },
+    {
+      "id": "p-hair-clip-23",
+      "name": "Purple Daisy Hair Clip",
+      "slug": "hair-clip-23",
+      "description": "A purple daisy-style clip with a bright yellow centre — soft chenille petals, handmade for everyday wear.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 459,
+      "compareAt": 639,
+      "images": [
+        "/craft/hair-clip-23.jpg"
+      ],
+      "collectionIds": [
+        "c-hair-clip"
+      ],
+      "stock": 14,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-15T10:00:00.000Z"
+    },
+    {
+      "id": "p-hair-clip-24",
+      "name": "Pink Puff Flower Hair Clip",
+      "slug": "hair-clip-24",
+      "description": "A pink flower clip with a fluffy yellow centre and green leaves — handmade from chenille stem.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 509,
+      "compareAt": 0,
+      "images": [
+        "/craft/hair-clip-24.jpg"
+      ],
+      "collectionIds": [
+        "c-hair-clip"
+      ],
+      "stock": 15,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-16T10:00:00.000Z"
+    },
+    {
+      "id": "p-hair-clip-25",
+      "name": "Bunny Ear Flower Hair Clips",
+      "slug": "hair-clip-25",
+      "description": "Layered bunny-ear flower clusters in white, light purple, and dark purple with rhinestone centres — handmade chenille clips.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 519,
+      "compareAt": 659,
+      "images": [
+        "/craft/hair-clip-25.jpg"
+      ],
+      "collectionIds": [
+        "c-hair-clip"
+      ],
+      "stock": 12,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-17T10:00:00.000Z"
+    },
+    {
+      "id": "p-hair-clip-26",
+      "name": "Purple Butterfly Hair Clips",
+      "slug": "hair-clip-26",
+      "description": "Purple chenille butterfly clips with pearl accents along the body — fuzzy wings and antennae, handmade as a pair.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 489,
+      "compareAt": 0,
+      "images": [
+        "/craft/hair-clip-26.jpg"
+      ],
+      "collectionIds": [
+        "c-hair-clip"
+      ],
+      "stock": 5,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-18T10:00:00.000Z"
+    },
+    {
+      "id": "p-hair-clip-27",
+      "name": "White Daisy Hair Clip",
+      "slug": "hair-clip-27",
+      "description": "A classic daisy clip with white petals and a bright yellow centre — soft chenille, handmade for everyday wear.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 499,
+      "compareAt": 619,
+      "images": [
+        "/craft/hair-clip-27.jpg"
+      ],
+      "collectionIds": [
+        "c-hair-clip"
+      ],
+      "stock": 18,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-19T10:00:00.000Z"
+    },
+    {
+      "id": "p-hair-clip-28",
+      "name": "Pink Cherry Hair Clips",
+      "slug": "hair-clip-28",
+      "description": "Playful pink cherry clips with green stems and bows — handmade chenille fruit balls on a snap clip.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 549,
+      "compareAt": 0,
+      "images": [
+        "/craft/hair-clip-28.jpg"
+      ],
+      "collectionIds": [
+        "c-hair-clip"
+      ],
+      "stock": 19,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-20T10:00:00.000Z"
+    },
+    {
+      "id": "p-hair-clip-29",
+      "name": "Red Cream Flower Hair Clips",
+      "slug": "hair-clip-29",
+      "description": "Dark red and cream flower clips worn in the hair — small chenille blooms with a fuzzy cream centre.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 199,
+      "compareAt": 0,
+      "images": [
+        "/craft/hair-clip-29.jpg"
+      ],
+      "collectionIds": [
+        "c-hair-clip"
+      ],
+      "stock": 16,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-21T10:00:00.000Z"
+    },
+    {
+      "id": "p-hair-clip-30",
+      "name": "Orange Bud Hair Clips",
+      "slug": "hair-clip-30",
+      "description": "Small orange flower-bud clips with green stems — handmade from chenille stem, like tiny sunflowers on a snap clip.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 539,
+      "compareAt": 0,
+      "images": [
+        "/craft/hair-clip-30.jpg"
+      ],
+      "collectionIds": [
+        "c-hair-clip"
+      ],
+      "stock": 18,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-22T10:00:00.000Z"
+    },
+    {
+      "id": "p-hair-clip-31",
+      "name": "Pink Daisy Hair Tie",
+      "slug": "hair-clip-31",
+      "description": "A round pink daisy hair tie with a yellow centre — fuzzy chenille petals on an elastic, handmade for a ponytail or bun.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 529,
+      "compareAt": 719,
+      "images": [
+        "/craft/hair-clip-31.jpg"
+      ],
+      "collectionIds": [
+        "c-hair-clip"
+      ],
+      "stock": 5,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-23T10:00:00.000Z"
+    },
+    {
+      "id": "p-hair-clip-32",
+      "name": "Pearl Check Hair Clips",
+      "slug": "hair-clip-32",
+      "description": "Fuzzy multi-coloured checkered clips with pearl and floral accents — yellow, mint, and white chenille with a decorative pearl bow.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 199,
+      "compareAt": 0,
+      "images": [
+        "/craft/hair-clip-32.jpg"
+      ],
+      "collectionIds": [
+        "c-hair-clip"
+      ],
+      "stock": 12,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-24T10:00:00.000Z"
+    },
+    {
+      "id": "p-hair-clip-33",
+      "name": "Pink Floral Bun Pin",
+      "slug": "hair-clip-33",
+      "description": "A large bright-pink floral bun pin — circular chenille blooms with a green stem, made to sit in a bun or braid.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 549,
+      "compareAt": 0,
+      "images": [
+        "/craft/hair-clip-33.jpg"
+      ],
+      "collectionIds": [
+        "c-hair-clip"
+      ],
+      "stock": 15,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-25T10:00:00.000Z"
+    },
+    {
+      "id": "p-hair-clip-34",
+      "name": "Yellow Daisy Hair Clip",
+      "slug": "hair-clip-34",
+      "description": "Yellow daisy-like hair clips with white centres — soft chenille petals, handmade as a matching pair.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 499,
+      "compareAt": 0,
+      "images": [
+        "/craft/hair-clip-34.jpg"
+      ],
+      "collectionIds": [
+        "c-hair-clip"
+      ],
+      "stock": 14,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-26T10:00:00.000Z"
+    },
+    {
+      "id": "p-hair-clip-35",
+      "name": "Magenta Bloom Hair Clip",
+      "slug": "hair-clip-35",
+      "description": "A small vibrant magenta flower clip with a pearl centre — fuzzy chenille petals for everyday wear.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 489,
+      "compareAt": 639,
+      "images": [
+        "/craft/hair-clip-35.jpg"
+      ],
+      "collectionIds": [
+        "c-hair-clip"
+      ],
+      "stock": 17,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-27T10:00:00.000Z"
+    },
+    {
+      "id": "p-hair-clip-36",
+      "name": "Ribbon Bow Hair Clip",
+      "slug": "hair-clip-36",
+      "description": "Pastel chenille ribbon bows with a pearl knot — mint, sky, and mix-and-match colours, handmade for everyday wear.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 519,
+      "compareAt": 0,
+      "images": [
+        "/craft/hair-clip-36.jpg"
+      ],
+      "collectionIds": [
+        "c-hair-clip"
+      ],
+      "stock": 8,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-28T10:00:00.000Z"
+    },
+    {
+      "id": "p-hair-clip-37",
+      "name": "Sunflower Hair Clip",
+      "slug": "hair-clip-37",
+      "description": "A sunflower clip with yellow petals and a dark brown centre — handmade chenille, made to sit in a bun or ponytail.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 509,
+      "compareAt": 679,
+      "images": [
+        "/craft/hair-clip-37.jpg"
+      ],
+      "collectionIds": [
+        "c-hair-clip"
+      ],
+      "stock": 11,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-01T10:00:00.000Z"
+    },
+    {
+      "id": "p-hair-clip-38",
+      "name": "Layered Orange Flower Clip",
+      "slug": "hair-clip-38",
+      "description": "A dense, layered orange and brown flower clip — fluffy chenille petals around a dark centre, handmade for a ponytail.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 259,
+      "compareAt": 0,
+      "images": [
+        "/craft/hair-clip-38.jpg"
+      ],
+      "collectionIds": [
+        "c-hair-clip"
+      ],
+      "stock": 10,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-02T10:00:00.000Z"
+    },
+    {
+      "id": "p-hair-clip-39",
+      "name": "Orange Flower Claw Clip",
+      "slug": "hair-clip-39",
+      "description": "A large orange and yellow flower claw clip with a dark centre — handmade chenille petals on a jaw clip.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 249,
+      "compareAt": 419,
+      "images": [
+        "/craft/hair-clip-39.jpg"
+      ],
+      "collectionIds": [
+        "c-hair-clip"
+      ],
+      "stock": 13,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-03T10:00:00.000Z"
+    },
+    {
+      "id": "p-hair-clip-40",
+      "name": "Linked Purple Heart Hair Pin",
+      "slug": "hair-clip-40",
+      "description": "Linked purple chenille heart clips that slide through a ponytail or bun — handmade pipe-cleaner hearts.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 289,
+      "compareAt": 0,
+      "images": [
+        "/craft/hair-clip-40.jpg"
+      ],
+      "collectionIds": [
+        "c-hair-clip"
+      ],
+      "stock": 5,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-04T10:00:00.000Z"
+    },
+    {
+      "id": "p-hair-clip-41",
+      "name": "Purple Daisy Ponytail Clip",
+      "slug": "hair-clip-41",
+      "description": "A purple flower clip with a yellow centre, made to sit in a ponytail — handmade chenille daisy.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 299,
+      "compareAt": 0,
+      "images": [
+        "/craft/hair-clip-41.jpg"
+      ],
+      "collectionIds": [
+        "c-hair-clip"
+      ],
+      "stock": 18,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-05T10:00:00.000Z"
+    },
+    {
+      "id": "p-hair-clip-42",
+      "name": "Orange Brown Floral Bun Pin",
+      "slug": "hair-clip-42",
+      "description": "An orange and brown circular floral bun pin with a matching clip — handmade chenille with pearl accents.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 309,
+      "compareAt": 0,
+      "images": [
+        "/craft/hair-clip-42.jpg"
+      ],
+      "collectionIds": [
+        "c-hair-clip"
+      ],
+      "stock": 15,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-06T10:00:00.000Z"
+    },
+    {
+      "id": "p-hair-band-01",
+      "name": "Blue Daisy Headband",
+      "slug": "hair-band-01",
+      "description": "A blue floral headband with yellow centres — handmade chenille daisies along a green band.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 469,
+      "compareAt": 639,
+      "images": [
+        "/craft/hair-band-01.jpg"
+      ],
+      "collectionIds": [
+        "c-hair-clip"
+      ],
+      "stock": 17,
+      "featured": false,
+      "bestseller": true,
+      "createdAt": "2026-07-07T10:00:00.000Z"
+    },
+    {
+      "id": "p-hair-band-02",
+      "name": "Bunny Ear Floral Headband",
+      "slug": "hair-band-02",
+      "description": "A twisted pink and mint headband with white bunny ears, small pink flowers, and green leafy accents — handmade chenille.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 609,
+      "compareAt": 0,
+      "images": [
+        "/craft/hair-band-02.jpg"
+      ],
+      "collectionIds": [
+        "c-hair-clip"
+      ],
+      "stock": 8,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-08T10:00:00.000Z"
+    },
+    {
+      "id": "p-hair-set-01",
+      "name": "Pearl Bow Hair Clips",
+      "slug": "hair-set-01",
+      "description": "Handmade bow-shaped floral clips with pearl accents — mint, pink, yellow, burgundy, and purple chenille bows.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 689,
+      "compareAt": 0,
+      "images": [
+        "/craft/hair-set-01.jpg"
+      ],
+      "collectionIds": [
+        "c-hair-clip"
+      ],
+      "stock": 12,
+      "featured": false,
+      "bestseller": true,
+      "createdAt": "2026-07-09T10:00:00.000Z"
+    },
+    {
+      "id": "p-hair-set-02",
+      "name": "Peach Floral Headband Set",
+      "slug": "hair-set-02",
+      "description": "A peach floral headband with matching hair clips — pearl centres on every chenille bloom.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 659,
+      "compareAt": 0,
+      "images": [
+        "/craft/hair-set-02.jpg"
+      ],
+      "collectionIds": [
+        "c-hair-clip"
+      ],
+      "stock": 5,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-10T10:00:00.000Z"
+    },
+    {
+      "id": "p-hair-set-03",
+      "name": "Pink Sunflower Headband Set",
+      "slug": "hair-set-03",
+      "description": "A pink hair band with yellow sunflower-style flowers and matching clips — handmade chenille with green leaves.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 669,
+      "compareAt": 849,
+      "images": [
+        "/craft/hair-set-03.jpg"
+      ],
+      "collectionIds": [
+        "c-hair-clip"
+      ],
+      "stock": 18,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-11T10:00:00.000Z"
+    },
+    {
+      "id": "p-hair-set-04",
+      "name": "Lilac Floral Headband Set",
+      "slug": "hair-set-04",
+      "description": "A light purple floral headband with matching hair clips — pearl centres on every chenille bloom.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 639,
+      "compareAt": 0,
+      "images": [
+        "/craft/hair-set-04.jpg"
+      ],
+      "collectionIds": [
+        "c-hair-clip"
+      ],
+      "stock": 11,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-12T10:00:00.000Z"
+    },
+    {
+      "id": "p-hair-set-05",
+      "name": "Pink & Blue Floral Headband Set",
+      "slug": "hair-set-05",
+      "description": "A vibrant pink and blue floral headband with matching hair clips — handmade chenille blooms with pearl centres.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 649,
+      "compareAt": 0,
+      "images": [
+        "/craft/hair-set-05.jpg"
+      ],
+      "collectionIds": [
+        "c-hair-clip"
+      ],
+      "stock": 8,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-13T10:00:00.000Z"
+    },
+    {
+      "id": "p-flower-pot-01",
+      "name": "Blue Flower Mini Pot",
+      "slug": "flower-pot-01",
+      "description": "A small brown pot of vibrant blue flowers with a bud and green foliage — handmade chenille.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 449,
+      "compareAt": 0,
+      "images": [
+        "/craft/flower-pot-01.jpg"
+      ],
+      "collectionIds": [
+        "c-pot"
+      ],
+      "stock": 4,
+      "featured": true,
+      "bestseller": true,
+      "createdAt": "2026-07-14T10:00:00.000Z"
+    },
+    {
+      "id": "p-flower-pot-02",
+      "name": "Rainbow Daisy Mix Flower Pot",
+      "slug": "flower-pot-02",
+      "description": "A colourful mix of orange, pink, purple, white, and blue daisies with yellow centres — handmade chenille.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 699,
+      "compareAt": 0,
+      "images": [
+        "/craft/flower-pot-02.jpg"
+      ],
+      "collectionIds": [
+        "c-pot"
+      ],
+      "stock": 13,
+      "featured": true,
+      "bestseller": false,
+      "createdAt": "2026-07-15T10:00:00.000Z"
+    },
+    {
+      "id": "p-flower-pot-03",
+      "name": "Pink Daisy Flower Pot",
+      "slug": "flower-pot-03",
+      "description": "A light pink pot of pink and yellow daisy-style flowers with green leaves — handmade chenille.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 769,
+      "compareAt": 929,
+      "images": [
+        "/craft/flower-pot-03.jpg"
+      ],
+      "collectionIds": [
+        "c-pot"
+      ],
+      "stock": 10,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-16T10:00:00.000Z"
+    },
+    {
+      "id": "p-flower-pot-04",
+      "name": "Purple Bloom Pink Bow Pot",
+      "slug": "flower-pot-04",
+      "description": "A brown pot with a pink bow, filled with purple flowers with red centres — handmade chenille.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 559,
+      "compareAt": 0,
+      "images": [
+        "/craft/flower-pot-04.jpg"
+      ],
+      "collectionIds": [
+        "c-pot"
+      ],
+      "stock": 19,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-17T10:00:00.000Z"
+    },
+    {
+      "id": "p-flower-pot-05",
+      "name": "Sunflower Wood Slice Planter",
+      "slug": "flower-pot-05",
+      "description": "A cluster of yellow sunflowers on a wooden base slice with green foliage — handmade chenille, no watering.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 629,
+      "compareAt": 769,
+      "images": [
+        "/craft/flower-pot-05.jpg"
+      ],
+      "collectionIds": [
+        "c-pot"
+      ],
+      "stock": 16,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-18T10:00:00.000Z"
+    },
+    {
+      "id": "p-flower-pot-06",
+      "name": "White Daisy Bunch Flower Pot",
+      "slug": "flower-pot-06",
+      "description": "A brown pot filled with white daisy-style flowers, yellow centres, and green stems — handmade chenille.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 879,
+      "compareAt": 0,
+      "images": [
+        "/craft/flower-pot-06.jpg"
+      ],
+      "collectionIds": [
+        "c-pot"
+      ],
+      "stock": 7,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-19T10:00:00.000Z"
+    },
+    {
+      "id": "p-flower-pot-07",
+      "name": "Daisy & Sunflower Mini Pots",
+      "slug": "flower-pot-07",
+      "description": "Two small pots — a white daisy and a yellow sunflower — handmade chenille with mossy bases.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 489,
+      "compareAt": 0,
+      "images": [
+        "/craft/flower-pot-07.jpg"
+      ],
+      "collectionIds": [
+        "c-pot"
+      ],
+      "stock": 6,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-20T10:00:00.000Z"
+    },
+    {
+      "id": "p-flower-pot-08",
+      "name": "Sunflower in Red Pot",
+      "slug": "flower-pot-08",
+      "description": "A large yellow sunflower with a dark brown centre and green leaves in a dark red pot — handmade chenille.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 739,
+      "compareAt": 0,
+      "images": [
+        "/craft/flower-pot-08.jpg"
+      ],
+      "collectionIds": [
+        "c-pot"
+      ],
+      "stock": 15,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-21T10:00:00.000Z"
+    },
+    {
+      "id": "p-flower-pot-09",
+      "name": "Purple Daisy Flower Pot",
+      "slug": "flower-pot-09",
+      "description": "A single large purple flower with a yellow-orange centre and green leaves in a textured pot — handmade chenille.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 809,
+      "compareAt": 0,
+      "images": [
+        "/craft/flower-pot-09.jpg"
+      ],
+      "collectionIds": [
+        "c-pot"
+      ],
+      "stock": 12,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-22T10:00:00.000Z"
+    },
+    {
+      "id": "p-flower-pot-10",
+      "name": "Sunflower Pink Mix Flower Pot",
+      "slug": "flower-pot-10",
+      "description": "A mix of yellow sunflowers and a pink bloom with daisies and greenery — handmade chenille in a brown pot.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 529,
+      "compareAt": 0,
+      "images": [
+        "/craft/flower-pot-10.jpg"
+      ],
+      "collectionIds": [
+        "c-pot"
+      ],
+      "stock": 14,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-23T10:00:00.000Z"
+    },
+    {
+      "id": "p-flower-pot-11",
+      "name": "Pink & White Flower Pot",
+      "slug": "flower-pot-11",
+      "description": "A pink pot of pink and white flowers with green stems and leaves — handmade chenille roses for a desk or windowsill.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 459,
+      "compareAt": 609,
+      "images": [
+        "/craft/flower-pot-11.jpg"
+      ],
+      "collectionIds": [
+        "c-pot"
+      ],
+      "stock": 17,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-24T10:00:00.000Z"
+    },
+    {
+      "id": "p-flower-pot-12",
+      "name": "White Daisy Flower Pot",
+      "slug": "flower-pot-12",
+      "description": "A textured pot of small white and yellow daisy-style flowers with green foliage — handmade chenille, no watering.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 669,
+      "compareAt": 0,
+      "images": [
+        "/craft/flower-pot-12.jpg"
+      ],
+      "collectionIds": [
+        "c-pot"
+      ],
+      "stock": 8,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-25T10:00:00.000Z"
+    },
+    {
+      "id": "p-flower-pot-13",
+      "name": "Purple Hydrangea Flower Pot",
+      "slug": "flower-pot-13",
+      "description": "A small white pot with a cluster of purple hydrangea-style flowers and green leaves — handmade chenille with pearl centres.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 599,
+      "compareAt": 769,
+      "images": [
+        "/craft/flower-pot-13.jpg"
+      ],
+      "collectionIds": [
+        "c-pot"
+      ],
+      "stock": 11,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-26T10:00:00.000Z"
+    },
+    {
+      "id": "p-flower-pot-14",
+      "name": "Pink Lily Flower Pot",
+      "slug": "flower-pot-14",
+      "description": "A pink lily-style bloom on a green stem in a ribbed pot — handmade chenille, everlasting on a desk or windowsill.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 809,
+      "compareAt": 0,
+      "images": [
+        "/craft/flower-pot-14.jpg"
+      ],
+      "collectionIds": [
+        "c-pot"
+      ],
+      "stock": 18,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-27T10:00:00.000Z"
+    },
+    {
+      "id": "p-flower-pot-15",
+      "name": "Sunflower Flower Pot",
+      "slug": "flower-pot-15",
+      "description": "Vibrant yellow sunflowers with green leaves in a white pot — handmade chenille with a dark centre.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 739,
+      "compareAt": 929,
+      "images": [
+        "/craft/flower-pot-15.jpg"
+      ],
+      "collectionIds": [
+        "c-pot"
+      ],
+      "stock": 5,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-28T10:00:00.000Z"
+    },
+    {
+      "id": "p-flower-pot-16",
+      "name": "Pink Tulip Heart Pot",
+      "slug": "flower-pot-16",
+      "description": "A textured brown pot with a red heart, filled with pink tulip-shaped flowers and green stems — handmade chenille.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 489,
+      "compareAt": 0,
+      "images": [
+        "/craft/flower-pot-16.jpg"
+      ],
+      "collectionIds": [
+        "c-pot"
+      ],
+      "stock": 12,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-01T10:00:00.000Z"
+    },
+    {
+      "id": "p-flower-pot-17",
+      "name": "Hot Pink Bloom Flower Pot",
+      "slug": "flower-pot-17",
+      "description": "A brown pot of bright pink fuzzy flowers with green centres, stems, and leaves — handmade chenille.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 879,
+      "compareAt": 0,
+      "images": [
+        "/craft/flower-pot-17.jpg"
+      ],
+      "collectionIds": [
+        "c-pot"
+      ],
+      "stock": 15,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-02T10:00:00.000Z"
+    },
+    {
+      "id": "p-flower-pot-18",
+      "name": "Pink Lotus Flower Pot",
+      "slug": "flower-pot-18",
+      "description": "Pink lily-like lotus blooms with yellow-orange centres and green leaves in a pot — handmade chenille.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 629,
+      "compareAt": 0,
+      "images": [
+        "/craft/flower-pot-18.jpg"
+      ],
+      "collectionIds": [
+        "c-pot"
+      ],
+      "stock": 6,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-03T10:00:00.000Z"
+    },
+    {
+      "id": "p-curtain-01",
+      "name": "Maroon Flower Curtain Tie-Back",
+      "slug": "curtain-01",
+      "description": "A deep maroon multi-petaled flower curtain tie-back with a sparkling centre — handmade chenille.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 739,
+      "compareAt": 0,
+      "images": [
+        "/craft/curtain-01.jpg"
+      ],
+      "collectionIds": [
+        "c-curtain",
+        "c-wall"
+      ],
+      "stock": 11,
+      "featured": true,
+      "bestseller": true,
+      "createdAt": "2026-07-04T10:00:00.000Z"
+    },
+    {
+      "id": "p-curtain-02",
+      "name": "Purple Daisy Curtain Tie-Back",
+      "slug": "curtain-02",
+      "description": "A vibrant purple daisy-style flower with a yellow centre and dark green leaves, for white drapes — handmade chenille.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 419,
+      "compareAt": 579,
+      "images": [
+        "/craft/curtain-02.jpg"
+      ],
+      "collectionIds": [
+        "c-curtain",
+        "c-wall"
+      ],
+      "stock": 14,
+      "featured": true,
+      "bestseller": false,
+      "createdAt": "2026-07-05T10:00:00.000Z"
+    },
+    {
+      "id": "p-curtain-03",
+      "name": "Pink Lily Curtain Holder",
+      "slug": "curtain-03",
+      "description": "A pink lily-style flower curtain holder for white drapes — handmade chenille.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 509,
+      "compareAt": 0,
+      "images": [
+        "/craft/curtain-03.jpg"
+      ],
+      "collectionIds": [
+        "c-curtain",
+        "c-wall"
+      ],
+      "stock": 17,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-06T10:00:00.000Z"
+    },
+    {
+      "id": "p-curtain-04",
+      "name": "Purple Yellow Flower Tie-Backs",
+      "slug": "curtain-04",
+      "description": "Vibrant purple multi-petaled flower tie-backs with bright yellow centres — handmade chenille.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 699,
+      "compareAt": 0,
+      "images": [
+        "/craft/curtain-04.jpg"
+      ],
+      "collectionIds": [
+        "c-curtain",
+        "c-wall"
+      ],
+      "stock": 12,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-07T10:00:00.000Z"
+    },
+    {
+      "id": "p-curtain-05",
+      "name": "Purple Rose Curtain Tie-Backs",
+      "slug": "curtain-05",
+      "description": "Purple rose-like flower curtain tie-backs with green leaves — handmade chenille for drapes.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 789,
+      "compareAt": 0,
+      "images": [
+        "/craft/curtain-05.jpg"
+      ],
+      "collectionIds": [
+        "c-curtain",
+        "c-wall"
+      ],
+      "stock": 15,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-08T10:00:00.000Z"
+    },
+    {
+      "id": "p-curtain-06",
+      "name": "Cream Yellow Flower Tie-Backs",
+      "slug": "curtain-06",
+      "description": "Creamy-yellow multi-petaled flower curtain tie-backs with dark green leaves — handmade chenille.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 469,
+      "compareAt": 569,
+      "images": [
+        "/craft/curtain-06.jpg"
+      ],
+      "collectionIds": [
+        "c-curtain",
+        "c-wall"
+      ],
+      "stock": 18,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-09T10:00:00.000Z"
+    },
+    {
+      "id": "p-curtain-07",
+      "name": "Magenta Flower Curtain Tie-Backs",
+      "slug": "curtain-07",
+      "description": "Vibrant magenta star-shaped flower curtain tie-backs — handmade chenille for windows and festive rooms.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 559,
+      "compareAt": 749,
+      "images": [
+        "/craft/curtain-07.jpg"
+      ],
+      "collectionIds": [
+        "c-curtain",
+        "c-wall"
+      ],
+      "stock": 5,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-10T10:00:00.000Z"
+    },
+    {
+      "id": "p-curtain-08",
+      "name": "Orange Flower Curtain Tie-Back",
+      "slug": "curtain-08",
+      "description": "A large orange flower tie-back with green leaves and a textured centre — handmade chenille.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 749,
+      "compareAt": 0,
+      "images": [
+        "/craft/curtain-08.jpg"
+      ],
+      "collectionIds": [
+        "c-curtain",
+        "c-wall"
+      ],
+      "stock": 16,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-11T10:00:00.000Z"
+    },
+    {
+      "id": "p-curtain-09",
+      "name": "Seven Colour Floral Tie-Backs",
+      "slug": "curtain-09",
+      "description": "Handmade floral curtain tie-backs in seven colours — yellow, light blue, brown, cherry pink, teal, mint green, and beige.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 429,
+      "compareAt": 0,
+      "images": [
+        "/craft/curtain-09.jpg"
+      ],
+      "collectionIds": [
+        "c-curtain",
+        "c-wall"
+      ],
+      "stock": 19,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-12T10:00:00.000Z"
+    },
+    {
+      "id": "p-diya-01",
+      "name": "Red Blue Flower Diyas",
+      "slug": "diya-01",
+      "description": "Vibrant red and blue flower-shaped diyas for candles and festive décor — handmade chenille.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 329,
+      "compareAt": 0,
+      "images": [
+        "/craft/diya-01.jpg"
+      ],
+      "collectionIds": [
+        "c-diya",
+        "c-haar"
+      ],
+      "stock": 4,
+      "featured": true,
+      "bestseller": true,
+      "createdAt": "2026-07-13T10:00:00.000Z"
+    },
+    {
+      "id": "p-diya-02",
+      "name": "Pink Lotus Aasan",
+      "slug": "diya-02",
+      "description": "A large pink lotus aasan with a yellow centre — a handmade chenille seat for a small murti or figurine.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 499,
+      "compareAt": 629,
+      "images": [
+        "/craft/diya-02.jpg"
+      ],
+      "collectionIds": [
+        "c-diya",
+        "c-haar"
+      ],
+      "stock": 13,
+      "featured": true,
+      "bestseller": false,
+      "createdAt": "2026-07-14T10:00:00.000Z"
+    },
+    {
+      "id": "p-diya-03",
+      "name": "Pink Lotus Hanging Lamp",
+      "slug": "diya-03",
+      "description": "A pink glowing lotus-style lamp suspended by beaded strings — handmade chenille.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 339,
+      "compareAt": 0,
+      "images": [
+        "/craft/diya-03.jpg"
+      ],
+      "collectionIds": [
+        "c-diya",
+        "c-haar"
+      ],
+      "stock": 10,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-15T10:00:00.000Z"
+    },
+    {
+      "id": "p-diya-04",
+      "name": "Dark Lotus Hanging Lamp",
+      "slug": "diya-04",
+      "description": "A glowing dark floral lotus-style hanging lamp, lit with string lights — handmade chenille.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 509,
+      "compareAt": 619,
+      "images": [
+        "/craft/diya-04.jpg"
+      ],
+      "collectionIds": [
+        "c-diya",
+        "c-haar"
+      ],
+      "stock": 19,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-16T10:00:00.000Z"
+    },
+    {
+      "id": "p-diya-05",
+      "name": "Blue White Lotus Lamp",
+      "slug": "diya-05",
+      "description": "A glowing blue and white lotus-shaped lamp, sized to hold in the hands — handmade chenille.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 349,
+      "compareAt": 0,
+      "images": [
+        "/craft/diya-05.jpg"
+      ],
+      "collectionIds": [
+        "c-diya",
+        "c-haar"
+      ],
+      "stock": 16,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-17T10:00:00.000Z"
+    },
+    {
+      "id": "p-diya-06",
+      "name": "Pearl Geometric Lantern",
+      "slug": "diya-06",
+      "description": "A multi-coloured geometric hanging lantern with pearl accents and a central light — handmade chenille.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 519,
+      "compareAt": 709,
+      "images": [
+        "/craft/diya-06.jpg"
+      ],
+      "collectionIds": [
+        "c-diya",
+        "c-haar"
+      ],
+      "stock": 9,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-18T10:00:00.000Z"
+    },
+    {
+      "id": "p-lotus-01",
+      "name": "Pink White Jar Bouquet",
+      "slug": "lotus-01",
+      "description": "A mixed bouquet of pink and white flowers with green stems, arranged in a glass jar — handmade chenille.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 889,
+      "compareAt": 0,
+      "images": [
+        "/craft/lotus-01.jpg"
+      ],
+      "collectionIds": [
+        "c-lotus"
+      ],
+      "stock": 4,
+      "featured": false,
+      "bestseller": true,
+      "createdAt": "2026-07-19T10:00:00.000Z"
+    },
+    {
+      "id": "p-lotus-02",
+      "name": "Pink Pearl Lotus",
+      "slug": "lotus-02",
+      "description": "A large open pink lotus with pearl details on the petal tips and green leaves at the base — handmade chenille.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 769,
+      "compareAt": 0,
+      "images": [
+        "/craft/lotus-02.jpg"
+      ],
+      "collectionIds": [
+        "c-lotus"
+      ],
+      "stock": 13,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-20T10:00:00.000Z"
+    },
+    {
+      "id": "p-lotus-03",
+      "name": "Purple Lavender Stem",
+      "slug": "lotus-03",
+      "description": "A tall purple lavender-style stem with a green leaf — handmade chenille.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 809,
+      "compareAt": 0,
+      "images": [
+        "/craft/lotus-03.jpg"
+      ],
+      "collectionIds": [
+        "c-lotus"
+      ],
+      "stock": 10,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-21T10:00:00.000Z"
+    },
+    {
+      "id": "p-ganpati-asan-01",
+      "name": "Red Green Pearl Flower Asans",
+      "slug": "ganpati-asan-01",
+      "description": "Deep red and green flower mats with pearl-bordered centres — handmade chenille asans for Ganpati.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 1019,
+      "compareAt": 0,
+      "images": [
+        "/craft/ganpati-asan-01.jpg"
+      ],
+      "collectionIds": [
+        "c-asan"
+      ],
+      "stock": 10,
+      "featured": true,
+      "bestseller": true,
+      "createdAt": "2026-07-22T10:00:00.000Z"
+    },
+    {
+      "id": "p-ganpati-asan-02",
+      "name": "Magenta Yellow Flower Asan",
+      "slug": "ganpati-asan-02",
+      "description": "A vibrant magenta and yellow flower asan — a handmade chenille seat for a Ganpati idol.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 829,
+      "compareAt": 0,
+      "images": [
+        "/craft/ganpati-asan-02.jpg"
+      ],
+      "collectionIds": [
+        "c-asan"
+      ],
+      "stock": 7,
+      "featured": true,
+      "bestseller": false,
+      "createdAt": "2026-07-23T10:00:00.000Z"
+    },
+    {
+      "id": "p-ganpati-asan-03",
+      "name": "Pink Gold Flower Asan",
+      "slug": "ganpati-asan-03",
+      "description": "A pink flower-shaped asan with a yellow-gold textured centre and a green leaf border — handmade chenille.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 1339,
+      "compareAt": 1479,
+      "images": [
+        "/craft/ganpati-asan-03.jpg"
+      ],
+      "collectionIds": [
+        "c-asan"
+      ],
+      "stock": 4,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-24T10:00:00.000Z"
+    },
+    {
+      "id": "p-haar-01",
+      "name": "Ganpati Haar — Orange Hibiscus",
+      "slug": "haar-01",
+      "description": "Seven orange hibiscus blooms with green leaves, pearl loops, and tassels — a festive Ganpati haar twisted from pipe cleaners.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 1269,
+      "compareAt": 1439,
+      "images": [
+        "/craft/haar-01.jpg"
+      ],
+      "collectionIds": [
+        "c-haar"
+      ],
+      "stock": 19,
+      "featured": true,
+      "bestseller": true,
+      "createdAt": "2026-07-25T10:00:00.000Z"
+    },
+    {
+      "id": "p-haar-02",
+      "name": "Ganpati Haar — Red Hibiscus",
+      "slug": "haar-02",
+      "description": "Five red hibiscus flowers on a pearl string with a pearl tassel — handmade pipe-cleaner haar for Ganpati.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 759,
+      "compareAt": 0,
+      "images": [
+        "/craft/haar-02.jpg"
+      ],
+      "collectionIds": [
+        "c-haar"
+      ],
+      "stock": 6,
+      "featured": true,
+      "bestseller": false,
+      "createdAt": "2026-07-26T10:00:00.000Z"
+    },
+    {
+      "id": "p-haar-03",
+      "name": "Ganpati Haar — Red Bloom",
+      "slug": "haar-03",
+      "description": "Seven red five-petal blooms with yellow centres, pearl neckline, and hanging buds — everlasting Ganpati haar.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 949,
+      "compareAt": 0,
+      "images": [
+        "/craft/haar-03.jpg"
+      ],
+      "collectionIds": [
+        "c-haar"
+      ],
+      "stock": 9,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-27T10:00:00.000Z"
+    },
+    {
+      "id": "p-haar-04",
+      "name": "Ganpati Haar — Plumeria",
+      "slug": "haar-04",
+      "description": "White and yellow plumeria blooms with a pearl at each centre — a soft, festive Ganpati haar in chenille stems.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 1019,
+      "compareAt": 0,
+      "images": [
+        "/craft/haar-04.jpg"
+      ],
+      "collectionIds": [
+        "c-haar"
+      ],
+      "stock": 4,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-28T10:00:00.000Z"
+    },
+    {
+      "id": "p-haar-05",
+      "name": "Ganpati Haar — Pink Pearl",
+      "slug": "haar-05",
+      "description": "Pink and white chenille buds with green leaves, joined by pearl strands — a handmade Ganpati haar for small idols.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 1209,
+      "compareAt": 0,
+      "images": [
+        "/craft/haar-05.jpg"
+      ],
+      "collectionIds": [
+        "c-haar"
+      ],
+      "stock": 7,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-01T10:00:00.000Z"
+    },
+    {
+      "id": "p-keychain-01",
+      "name": "Cherry Bow Keychain",
+      "slug": "keychain-01",
+      "description": "A double red cherry keychain with green stems and a looped bow, on a keyring — handmade chenille.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 309,
+      "compareAt": 0,
+      "images": [
+        "/craft/keychain-01.jpg"
+      ],
+      "collectionIds": [
+        "c-keychain"
+      ],
+      "stock": 7,
+      "featured": true,
+      "bestseller": true,
+      "createdAt": "2026-07-02T10:00:00.000Z"
+    },
+    {
+      "id": "p-keychain-02",
+      "name": "Pink Flower Sunflower Keychain Trio",
+      "slug": "keychain-02",
+      "description": "A trio of flower keychains: a light pink bloom, a yellow sunflower with a dark brown centre, and a vibrant pink flower with a sparkling centre — handmade chenille.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 149,
+      "compareAt": 0,
+      "images": [
+        "/craft/keychain-02.jpg"
+      ],
+      "collectionIds": [
+        "c-keychain"
+      ],
+      "stock": 10,
+      "featured": true,
+      "bestseller": false,
+      "createdAt": "2026-07-03T10:00:00.000Z"
+    },
+    {
+      "id": "p-keychain-03",
+      "name": "Deep Blue Evil Eye Flower Keychain",
+      "slug": "keychain-03",
+      "description": "A deep blue evil-eye flower keychain with a white and light blue centre ring — handmade chenille.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 199,
+      "compareAt": 0,
+      "images": [
+        "/craft/keychain-03.webp"
+      ],
+      "collectionIds": [
+        "c-keychain"
+      ],
+      "stock": 13,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-04T10:00:00.000Z"
+    },
+    {
+      "id": "p-keychain-04",
+      "name": "Multi-Colour Flower Keychains",
+      "slug": "keychain-04",
+      "description": "Bundles of flower keychains in bright pink, orange, yellow, and white — handmade chenille.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 249,
+      "compareAt": 0,
+      "images": [
+        "/craft/keychain-04.jpg"
+      ],
+      "collectionIds": [
+        "c-keychain"
+      ],
+      "stock": 16,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-05T10:00:00.000Z"
+    },
+    {
+      "id": "p-keychain-05",
+      "name": "Beige Sunflower Keychain",
+      "slug": "keychain-05",
+      "description": "A light beige sunflower keychain with a dark brown centre — handmade chenille.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 299,
+      "compareAt": 0,
+      "images": [
+        "/craft/keychain-05.jpg"
+      ],
+      "collectionIds": [
+        "c-keychain"
+      ],
+      "stock": 19,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-06T10:00:00.000Z"
+    },
+    {
+      "id": "p-keychain-06",
+      "name": "Sunflower Pearl Strap Keychain",
+      "slug": "keychain-06",
+      "description": "A yellow sunflower pendant on a pearl strap — handmade chenille.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 349,
+      "compareAt": 509,
+      "images": [
+        "/craft/keychain-06.jpg"
+      ],
+      "collectionIds": [
+        "c-keychain"
+      ],
+      "stock": 6,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-07T10:00:00.000Z"
+    },
+    {
+      "id": "p-keychain-07",
+      "name": "Evil Eye Amulet Keychains",
+      "slug": "keychain-07",
+      "description": "Circular evil eye amulet keychains in various sizes, with concentric blue, white, and black rings — handmade chenille.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 189,
+      "compareAt": 339,
+      "images": [
+        "/craft/keychain-07.jpg"
+      ],
+      "collectionIds": [
+        "c-keychain"
+      ],
+      "stock": 9,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-08T10:00:00.000Z"
+    },
+    {
+      "id": "p-keychain-08",
+      "name": "Evil Eye Flower Keychain",
+      "slug": "keychain-08",
+      "description": "An evil eye flower keychain with a dark blue petaled border, white ring, and light blue and black centre — handmade chenille.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 239,
+      "compareAt": 0,
+      "images": [
+        "/craft/keychain-08.jpg"
+      ],
+      "collectionIds": [
+        "c-keychain"
+      ],
+      "stock": 12,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-09T10:00:00.000Z"
+    },
+    {
+      "id": "p-keychain-09",
+      "name": "Blue Evil Eye Keychain",
+      "slug": "keychain-09",
+      "description": "A blue evil eye charm fashioned from chenille stems, sized to hold in the hand.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 289,
+      "compareAt": 0,
+      "images": [
+        "/craft/keychain-09.jpg"
+      ],
+      "collectionIds": [
+        "c-keychain"
+      ],
+      "stock": 15,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-10T10:00:00.000Z"
+    },
+    {
+      "id": "p-keychain-10",
+      "name": "Pink Red Rose Keychain Pair",
+      "slug": "keychain-10",
+      "description": "A pair of rose-style keychains in light pink and red, each with green leaves — handmade chenille.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 309,
+      "compareAt": 0,
+      "images": [
+        "/craft/keychain-10.jpg"
+      ],
+      "collectionIds": [
+        "c-keychain"
+      ],
+      "stock": 13,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-11T10:00:00.000Z"
+    },
+    {
+      "id": "p-keychain-11",
+      "name": "White Daisy Keychain",
+      "slug": "keychain-11",
+      "description": "A white daisy-style flower keychain with a bright yellow centre — handmade chenille.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 259,
+      "compareAt": 0,
+      "images": [
+        "/craft/keychain-11.jpg"
+      ],
+      "collectionIds": [
+        "c-keychain"
+      ],
+      "stock": 10,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-12T10:00:00.000Z"
+    },
+    {
+      "id": "p-keychain-12",
+      "name": "Yellow Sunflower Keychain",
+      "slug": "keychain-12",
+      "description": "A yellow sunflower keychain with a dark brown centre — handmade chenille.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 209,
+      "compareAt": 399,
+      "images": [
+        "/craft/keychain-12.jpg"
+      ],
+      "collectionIds": [
+        "c-keychain"
+      ],
+      "stock": 7,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-13T10:00:00.000Z"
+    },
+    {
+      "id": "p-keychain-13",
+      "name": "Pink Pearl Bow Keychain",
+      "slug": "keychain-13",
+      "description": "A pink fuzzy bow keychain with a central pearl bead — handmade chenille.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 159,
+      "compareAt": 0,
+      "images": [
+        "/craft/keychain-13.jpg"
+      ],
+      "collectionIds": [
+        "c-keychain"
+      ],
+      "stock": 4,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-14T10:00:00.000Z"
+    },
+    {
+      "id": "p-keychain-14",
+      "name": "Pink Daisy Keychain",
+      "slug": "keychain-14",
+      "description": "A pink daisy-style flower keychain with a white and yellow centre — handmade chenille.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 299,
+      "compareAt": 429,
+      "images": [
+        "/craft/keychain-14.jpg"
+      ],
+      "collectionIds": [
+        "c-keychain"
+      ],
+      "stock": 9,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-15T10:00:00.000Z"
+    },
+    {
+      "id": "p-keychain-15",
+      "name": "Cherry Heart Keychain Pair",
+      "slug": "keychain-15",
+      "description": "A pair of keychains: double red cherries with green stems, and a red heart with a beaded strap — handmade chenille.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 249,
+      "compareAt": 0,
+      "images": [
+        "/craft/keychain-15.jpg"
+      ],
+      "collectionIds": [
+        "c-keychain"
+      ],
+      "stock": 6,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-16T10:00:00.000Z"
+    },
+    {
+      "id": "p-keychain-16",
+      "name": "Pink Strawberry Keychain",
+      "slug": "keychain-16",
+      "description": "A textured pink strawberry keychain with green stem details and a dangling pearl chain — handmade chenille.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 199,
+      "compareAt": 349,
+      "images": [
+        "/craft/keychain-16.jpg"
+      ],
+      "collectionIds": [
+        "c-keychain"
+      ],
+      "stock": 19,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-17T10:00:00.000Z"
+    },
+    {
+      "id": "p-keychain-17",
+      "name": "Red Rose Keychain",
+      "slug": "keychain-17",
+      "description": "A small red rose keychain with green leaves, on a gold ring — handmade chenille.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 149,
+      "compareAt": 0,
+      "images": [
+        "/craft/keychain-17.jpg"
+      ],
+      "collectionIds": [
+        "c-keychain"
+      ],
+      "stock": 16,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-18T10:00:00.000Z"
+    },
+    {
+      "id": "p-keychain-18",
+      "name": "Blue Pink Purple Flower Keychains",
+      "slug": "keychain-18",
+      "description": "A set of three star-flower keychains in blue, pink, and purple, with pearl centre accents — handmade chenille.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 289,
+      "compareAt": 0,
+      "images": [
+        "/craft/keychain-18.jpg"
+      ],
+      "collectionIds": [
+        "c-keychain"
+      ],
+      "stock": 5,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-19T10:00:00.000Z"
+    },
+    {
+      "id": "p-purse-01",
+      "name": "Mini Purse 01",
+      "slug": "purse-01",
+      "description": "A handmade chenille-stem mini purse — sculptural and giftable.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 689,
+      "compareAt": 0,
+      "images": [
+        "/craft/purse-01.jpg"
+      ],
+      "collectionIds": [
+        "c-purse"
+      ],
+      "stock": 8,
+      "featured": false,
+      "bestseller": true,
+      "createdAt": "2026-07-20T10:00:00.000Z"
+    },
+    {
+      "id": "p-shubh-labh-01",
+      "name": "Shubh Labh — Pink Welcome Hangings",
+      "slug": "shubh-labh-01",
+      "description": "Bright pink petal hangings with dark centres and Shubh Labh inscriptions, plus beaded fringe ending in tiny pink flowers.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 1009,
+      "compareAt": 0,
+      "images": [
+        "/craft/shubh-labh-01.jpg"
+      ],
+      "collectionIds": [
+        "c-shubh",
+        "c-wall",
+        "c-curtain"
+      ],
+      "stock": 9,
+      "featured": true,
+      "bestseller": true,
+      "createdAt": "2026-07-21T10:00:00.000Z"
+    },
+    {
+      "id": "p-shubh-labh-02",
+      "name": "Shubh Labh — Mixed Floral Hangings",
+      "slug": "shubh-labh-02",
+      "description": "Pairs of orange-yellow, dark red, pink, and cream flower hangings on triangular cords, with beaded strings and floral tassels.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 1239,
+      "compareAt": 1379,
+      "images": [
+        "/craft/shubh-labh-02.jpg"
+      ],
+      "collectionIds": [
+        "c-shubh",
+        "c-wall",
+        "c-curtain"
+      ],
+      "stock": 16,
+      "featured": true,
+      "bestseller": false,
+      "createdAt": "2026-07-22T10:00:00.000Z"
+    },
+    {
+      "id": "p-shubh-labh-03",
+      "name": "Shubh Labh — Sunflower Hangings",
+      "slug": "shubh-labh-03",
+      "description": "Bright yellow sunflower hangings with dark centres and Hindi Shubh Labh inscriptions, plus hanging pearls and small sunflower drops.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 1429,
+      "compareAt": 0,
+      "images": [
+        "/craft/shubh-labh-03.jpg"
+      ],
+      "collectionIds": [
+        "c-shubh",
+        "c-wall",
+        "c-curtain"
+      ],
+      "stock": 19,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-23T10:00:00.000Z"
+    },
+    {
+      "id": "p-shubh-labh-04",
+      "name": "Shubh Labh — Red Gold Hangings",
+      "slug": "shubh-labh-04",
+      "description": "Red flower hangings with yellow-gold centres inscribed with Shubh Labh, plus dangling pearl strands and tiny red flower drops.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 859,
+      "compareAt": 1019,
+      "images": [
+        "/craft/shubh-labh-04.jpg"
+      ],
+      "collectionIds": [
+        "c-shubh",
+        "c-wall",
+        "c-curtain"
+      ],
+      "stock": 10,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-24T10:00:00.000Z"
+    },
+    {
+      "id": "p-shubh-labh-05",
+      "name": "Shubh Labh — Pink Floral Pair",
+      "slug": "shubh-labh-05",
+      "description": "Large pink chenille flowers with beaded borders and yellow centres featuring traditional Shubh Labh script.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 1049,
+      "compareAt": 0,
+      "images": [
+        "/craft/shubh-labh-05.jpg"
+      ],
+      "collectionIds": [
+        "c-shubh",
+        "c-wall",
+        "c-curtain"
+      ],
+      "stock": 13,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-25T10:00:00.000Z"
+    },
+    {
+      "id": "p-shubh-labh-06",
+      "name": "Shubh Labh — Magenta Daisy Hangings",
+      "slug": "shubh-labh-06",
+      "description": "Magenta and light-pink daisy hangings with yellow centre discs, pearl strands, and small pink flower accents.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 1279,
+      "compareAt": 1459,
+      "images": [
+        "/craft/shubh-labh-06.jpg"
+      ],
+      "collectionIds": [
+        "c-shubh",
+        "c-wall",
+        "c-curtain"
+      ],
+      "stock": 4,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-26T10:00:00.000Z"
+    },
+    {
+      "id": "p-shubh-labh-07",
+      "name": "Shubh Labh — Red Flower Medallions",
+      "slug": "shubh-labh-07",
+      "description": "Red flower medallions with hanging strings of beads and buds, inscribed with auspicious Shubh Labh symbols.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 1469,
+      "compareAt": 0,
+      "images": [
+        "/craft/shubh-labh-07.jpg"
+      ],
+      "collectionIds": [
+        "c-shubh",
+        "c-wall",
+        "c-curtain"
+      ],
+      "stock": 7,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-27T10:00:00.000Z"
+    },
+    {
+      "id": "p-wall-decor-01",
+      "name": "Cascading Sunflower Wall Hanging",
+      "slug": "wall-decor-01",
+      "description": "A large cascading wall hanging of handmade yellow sunflowers with green stems and leaves.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 1689,
+      "compareAt": 0,
+      "images": [
+        "/craft/wall-decor-01.jpg"
+      ],
+      "collectionIds": [
+        "c-wall",
+        "c-curtain"
+      ],
+      "stock": 7,
+      "featured": true,
+      "bestseller": true,
+      "createdAt": "2026-07-28T10:00:00.000Z"
+    },
+    {
+      "id": "p-wall-decor-02",
+      "name": "Pink Lotus Beaded Strand",
+      "slug": "wall-decor-02",
+      "description": "A vertical hanging strand of four pink lotus flowers spaced along a beaded string — handmade chenille.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 1879,
+      "compareAt": 2059,
+      "images": [
+        "/craft/wall-decor-02.jpg"
+      ],
+      "collectionIds": [
+        "c-wall",
+        "c-curtain"
+      ],
+      "stock": 10,
+      "featured": true,
+      "bestseller": false,
+      "createdAt": "2026-07-01T10:00:00.000Z"
+    },
+    {
+      "id": "p-wall-decor-03",
+      "name": "Blue White Lily Wreath",
+      "slug": "wall-decor-03",
+      "description": "A circular green-wrapped wreath with blue, light blue, and white lily flowers — handmade chenille.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 1069,
+      "compareAt": 0,
+      "images": [
+        "/craft/wall-decor-03.jpg"
+      ],
+      "collectionIds": [
+        "c-wall",
+        "c-curtain"
+      ],
+      "stock": 13,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-02T10:00:00.000Z"
+    },
+    {
+      "id": "p-wall-decor-04",
+      "name": "Orange Sunflower Wall Hanging",
+      "slug": "wall-decor-04",
+      "description": "A rich hanging arrangement of bright orange sunflowers with brown centres and green stems — handmade chenille.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 1259,
+      "compareAt": 1419,
+      "images": [
+        "/craft/wall-decor-04.jpg"
+      ],
+      "collectionIds": [
+        "c-wall",
+        "c-curtain"
+      ],
+      "stock": 16,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-03T10:00:00.000Z"
+    },
+    {
+      "id": "p-wall-decor-05",
+      "name": "Pink Bell Flower Mobile",
+      "slug": "wall-decor-05",
+      "description": "Cascading strands of pink bell-shaped flower decorations — handmade chenille.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 1449,
+      "compareAt": 0,
+      "images": [
+        "/craft/wall-decor-05.jpg"
+      ],
+      "collectionIds": [
+        "c-wall",
+        "c-curtain"
+      ],
+      "stock": 19,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-04T10:00:00.000Z"
+    },
+    {
+      "id": "p-wall-decor-06",
+      "name": "Pink Lotus Hoop Hanging",
+      "slug": "wall-decor-06",
+      "description": "A circular hoop with a large pink lotus, green leaves, and a smaller companion blossom — handmade chenille.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 1639,
+      "compareAt": 1779,
+      "images": [
+        "/craft/wall-decor-06.jpg"
+      ],
+      "collectionIds": [
+        "c-wall",
+        "c-curtain"
+      ],
+      "stock": 6,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-05T10:00:00.000Z"
+    },
+    {
+      "id": "p-wall-decor-07",
+      "name": "Pink Daisy Cascade Hanging",
+      "slug": "wall-decor-07",
+      "description": "A large pink daisy wall hanging with a textured centre, plus cascading strings of smaller pink flowers and beads — handmade chenille.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 1829,
+      "compareAt": 0,
+      "images": [
+        "/craft/wall-decor-07.jpg"
+      ],
+      "collectionIds": [
+        "c-wall",
+        "c-curtain"
+      ],
+      "stock": 9,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-06T10:00:00.000Z"
+    },
+    {
+      "id": "p-wall-decor-08",
+      "name": "Pink Cherry Blossom Garland",
+      "slug": "wall-decor-08",
+      "description": "A delicate hanging garland of small pink cherry blossom-style flowers with green stems — handmade chenille.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 1019,
+      "compareAt": 0,
+      "images": [
+        "/craft/wall-decor-08.jpg"
+      ],
+      "collectionIds": [
+        "c-wall",
+        "c-curtain"
+      ],
+      "stock": 12,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-07T10:00:00.000Z"
+    },
+    {
+      "id": "p-wall-decor-09",
+      "name": "Pink Lotus Stem Lamp",
+      "slug": "wall-decor-09",
+      "description": "A large textured pink lotus flower lamp on a curved green stem, accented with small companion flowers — handmade chenille.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 1209,
+      "compareAt": 0,
+      "images": [
+        "/craft/wall-decor-09.jpg"
+      ],
+      "collectionIds": [
+        "c-wall",
+        "c-curtain",
+        "c-diya",
+        "c-haar"
+      ],
+      "stock": 15,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-08T10:00:00.000Z"
+    },
+    {
+      "id": "p-floral-mirror-01",
+      "name": "Sunflower Bloom Mirror",
+      "slug": "floral-mirror-01",
+      "description": "A round Mirror in Bloom encircled by chenille sunflowers with dark brown centres.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 1439,
+      "compareAt": 1579,
+      "images": [
+        "/craft/floral-mirror-01.jpg"
+      ],
+      "collectionIds": [
+        "c-mirror",
+        "c-wall",
+        "c-curtain"
+      ],
+      "stock": 14,
+      "featured": true,
+      "bestseller": true,
+      "createdAt": "2026-07-09T10:00:00.000Z"
+    },
+    {
+      "id": "p-floral-mirror-02",
+      "name": "Magenta Heart Flower Mirror",
+      "slug": "floral-mirror-02",
+      "description": "A 6-inch heart-shaped mirror bordered with vibrant magenta flowers and pearl accents — handmade chenille.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 1249,
+      "compareAt": 1399,
+      "images": [
+        "/craft/floral-mirror-02.jpg"
+      ],
+      "collectionIds": [
+        "c-mirror",
+        "c-wall",
+        "c-curtain"
+      ],
+      "stock": 11,
+      "featured": true,
+      "bestseller": false,
+      "createdAt": "2026-07-10T10:00:00.000Z"
+    },
+    {
+      "id": "p-floral-mirror-03",
+      "name": "Pink Fairy-Light Flower Mirror",
+      "slug": "floral-mirror-03",
+      "description": "A round mirror bordered with pink handmade flowers, green leaves, and integrated fairy lights.",
+      "details": "Hand-twisted from chenille stems — the authentic craft name for pipe cleaners. Soft, sculptural, and everlasting. Packed with care from Pratiksha's Craft studio.",
+      "price": 1059,
+      "compareAt": 1219,
+      "images": [
+        "/craft/floral-mirror-03.jpg"
+      ],
+      "collectionIds": [
+        "c-mirror",
+        "c-wall",
+        "c-curtain"
+      ],
+      "stock": 8,
+      "featured": false,
+      "bestseller": false,
+      "createdAt": "2026-07-11T10:00:00.000Z"
+    }
+  ],
+  "orders": [
+    {
+      "id": "o-d9x1m18587",
+      "number": "PC0103",
+      "status": "pending",
+      "items": [
+        {
+          "productId": "p-bouquet-02",
+          "name": "pink white  lili flower bouquet",
+          "price": 560,
+          "qty": 2,
+          "image": "/craft/bouquet-pink.png"
+        }
+      ],
+      "subtotal": 1120,
+      "shipping": 0,
+      "total": 1120,
+      "customer": {
+        "name": "Pratiksha Narawade",
+        "email": "pratikshanarawade2002@gmail.com",
+        "phone": "08668294575",
+        "address": "66 Avenue Adarsh Nagar pimple Nilak ,pune,411027",
+        "city": "Pune",
+        "pincode": "411027",
+        "notes": "."
+      },
+      "createdAt": "2026-09-24T14:16:44.407Z"
+    },
+    {
+      "id": "o-ju8j7cpg26",
+      "number": "PC0102",
+      "status": "pending",
+      "items": [
+        {
+          "productId": "p-flower-pot-06",
+          "name": "Flower Pot 06",
+          "price": 879,
+          "qty": 2,
+          "image": "/craft/flower-pot-06.jpg"
+        }
+      ],
+      "subtotal": 1758,
+      "shipping": 0,
+      "total": 1758,
+      "customer": {
+        "name": "Pratiksha Narawade",
+        "email": "pratikshanarawade2002@gmail.com",
+        "phone": "08668294575",
+        "address": "66 Avenue Adarsh Nagar pimple Nilak ,pune,411027",
+        "city": "Pune",
+        "pincode": "411027",
+        "notes": "."
+      },
+      "createdAt": "2026-09-03T14:37:06.318Z"
+    },
+    {
+      "id": "o-xu8s9g3r5o",
+      "number": "PC0101",
+      "status": "pending",
+      "items": [
+        {
+          "productId": "p-bouquet-01",
+          "name": "Bouquet 01",
+          "price": 1010,
+          "qty": 1,
+          "image": "/craft/hero-bouquet.png"
+        }
+      ],
+      "subtotal": 1010,
+      "shipping": 0,
+      "total": 1010,
+      "customer": {
+        "name": "Pratiksha Narawade",
+        "email": "pratikshanarawade2002@gmail.com",
+        "phone": "08668294575",
+        "address": "66 Avenue Adarsh Nagar pimple Nilak ,pune,411027",
+        "city": "Pune",
+        "pincode": "411027",
+        "notes": "."
+      },
+      "createdAt": "2026-09-02T12:40:35.388Z"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "rv1",
+      "name": "Ananya S.",
+      "body": "The sunflower bouquet looks exactly like the photos. Soft, fuzzy, and it still sits on my shelf two months later.",
+      "rating": 5,
+      "date": "08/12/2026",
+      "featured": true
+    },
+    {
+      "id": "rv2",
+      "name": "Riddhi",
+      "body": "Bought the daisy headband for my niece. She refuses to take it off. Beautiful finish.",
+      "rating": 5,
+      "date": "08/02/2026",
+      "featured": true
+    },
+    {
+      "id": "rv3",
+      "name": "Nityaa",
+      "body": "The glowing lotus is stunning at night. Soft light, perfect for the pooja shelf.",
+      "rating": 5,
+      "date": "07/22/2026",
+      "featured": true
+    },
+    {
+      "id": "rv4",
+      "name": "Riya",
+      "body": "Packed with so much care. The terracotta daisy pot is my favourite desk thing now.",
+      "rating": 5,
+      "date": "07/18/2026",
+      "featured": true
+    }
+  ],
+  "faqs": [
+    {
+      "id": "f1",
+      "question": "What are chenille stems?",
+      "answer": "Chenille stems are the authentic craft name for pipe cleaners — soft, fuzzy yarn wrapped around a flexible wire. We twist them by hand into flowers, décor, and accessories that last."
+    },
+    {
+      "id": "f2",
+      "question": "Are the flowers completely handmade?",
+      "answer": "Yes. Every piece is twisted by hand from chenille stems. No machines, no shortcuts — just time and craft."
+    },
+    {
+      "id": "f3",
+      "question": "Do they need water?",
+      "answer": "No. These blooms are everlasting. Dust them gently if needed. They will not wilt."
+    },
+    {
+      "id": "f4",
+      "question": "Can I request a custom colour or size?",
+      "answer": "Yes. Message us on WhatsApp with a photo or colour preference. Handmade pieces can often be made to order."
+    },
+    {
+      "id": "f5",
+      "question": "How long does delivery take?",
+      "answer": "Within India, deliveries usually take 5–8 business days. Each piece is packed with care and shipped securely."
+    },
+    {
+      "id": "f6",
+      "question": "What is the return policy?",
+      "answer": "Returns are accepted for in-transit damage reported within 24 hours of delivery with an uncut unboxing video. Write to us on Instagram or email."
+    }
+  ],
+  "messages": [],
+  "users": [
+    {
+      "id": "u-ppmepym5nu",
+      "name": "Pratiksha Narawade",
+      "email": "pratikshanarawade2002@gmail.com",
+      "phone": "08668294575",
+      "passwordHash": "8e974239cdd56d4ddc4d835974b7071d7fb6036d793f4a6776c97a5db7d09d34",
+      "createdAt": "2026-09-04T09:42:17.130Z"
+    }
+  ]
+}
